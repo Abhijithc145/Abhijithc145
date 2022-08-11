@@ -1,6 +1,5 @@
 👋 Hi i'm Abhijith C
 <img align="right" alt="Coding" width="400" src ="https://i.pinimg.com/originals/01/32/31/01323190cd6933de96287a5804fd636a.gif">
-
 ======================
 
 Full stack web developer
@@ -16,6 +15,7 @@ passionate about coding . Enthusiastic and love to learn and work on New and old
 
 <a href="https://www.github.com/Abhijithc145" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Abhijithc145?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
